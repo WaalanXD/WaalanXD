@@ -18,7 +18,7 @@ no se nada todavia xd
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂Random Dev Meme
-<img src="https://mx.pinterest.com/pin/1118300151209345709/" width="512px"/>
+<img src="https://images3.memedroid.com/images/UPLOADED277/65815cf051c72.jpeg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WaalanXD&icon=2&color=8)](https://visitcount.itsvg.in)
