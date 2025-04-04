@@ -4,7 +4,7 @@ Estoy aprendiendo Python
 no se nada todavia xd
 
 
-## 🌐Socials
+## 🌐 Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenny-diaz) 
 
 # 💻Tech Stack
