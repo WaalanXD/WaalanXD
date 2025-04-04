@@ -1,8 +1,7 @@
-# 💫About Me :
-Estudiante de Ingeniería de Sistemas e Informática
-Universidad Nacional de Colombia
-Aprendiendo Python
-no se nada xd
+# 🗿 Sobre mi 🗿 :
+Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia
+Estoy aprendiendo Python
+no se nada todavia xd
 
 
 ## 🌐Socials
@@ -19,7 +18,7 @@ no se nada xd
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://mx.pinterest.com/pin/1118300151209345709/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WaalanXD&icon=2&color=8)](https://visitcount.itsvg.in)
