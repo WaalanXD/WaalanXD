@@ -1,15 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C5BA2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=C2B014&width=435&lines=¡Hola+mundo!+Soy+Kenny+Diaz+👋;Bienvenidos+a+mi+GitHub+🐈‍⬛;Gracias+por+la+visita+:D+❤️)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&left=true&vleft=true&multiline=true&width=710&height=80&lines=¡Hola+mundo!+Soy+Kenny+Diaz+👋;Bienvenidos+a+mi+GitHub+🐈‍⬛;Gracias+por+la+visita+:D+❤️" alt="¡Hola mundo! Soy Kenny Diaz👋 Bienvenidos a mi GitHub 🐈‍⬛ Gracias por la visita :D ❤️" />
+</p>
+
 
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=F5F5F5&width=435&height=50&lines=🌻+Sobre+mi+🌻" alt="Typing SVG" /></a>
 
 #### Estudiante de 18 años de Ingenieria de Sitemas e Informatica en la Universidad Nacional de Colombia
 #### Me encanta aprender cosas nuevas y actualmente me encuentro estudiando Python en un semillero
-#### todavia no se nada 🗿
+#### todavia no se nada 🗿 <div align="right" 
 #
-> *`"La verdadera felcidad consiste en hacer el bien" -✨Aristoteles✨`*
+> *`"La verdadera felcidad consiste en hacer el bien" -✨Aristoteles✨`* 
 
 
 #
