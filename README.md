@@ -1,7 +1,7 @@
 # 🗿 Sobre mi 🗿 :
-### Soy estudiante de Ingeniería de Sistemas e Informática
-### en la Universidad Nacional de Colombia.
-### Actualmente estoy aprendiendo Python aunque todavia no se nada xd
+#### Soy estudiante de Ingeniería de Sistemas e Informática
+#### en la Universidad Nacional de Colombia.
+#### Actualmente estoy aprendiendo Python aunque todavia no se nada xd
 
 
 ## 🌐 Redes Sociales 🌐
