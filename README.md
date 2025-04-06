@@ -1,15 +1,15 @@
 # 🗿 Sobre mi 🗿 :
-Soy estudiante de Ingeniería de Sistemas e Informática
-en la Universidad Nacional de Colombia.
-Actualmente estoy aprendiendo Python aunque todavia no se nada xd
+# Soy estudiante de Ingeniería de Sistemas e Informática
+# en la Universidad Nacional de Colombia.
+# Actualmente estoy aprendiendo Python aunque todavia no se nada xd
 
 
-## 🌐 Redes Sociales
+## 🌐 Redes Sociales 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenny-diaz) 
 
-# 💻Tech Stack
+# 💻 Habilidades tecnologicas 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊GitHub Stats :
+# 📊 GitHub Stats 📊 :
 ![](https://github-readme-stats.vercel.app/api?username=WaalanXD&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WaalanXD&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaalanXD&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -18,7 +18,7 @@ Actualmente estoy aprendiendo Python aunque todavia no se nada xd
 <img src="https://i.ytimg.com/vi/drPf1qV8-GQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDNNjV44rYWGpaWkRz1ZW93B3tl0g"/>
 
 
-### ⍩⃝ My honest reaction ⍩⃝ 
+### ⍩⃝ gato ⍩⃝ 
 <img src="https://images3.memedroid.com/images/UPLOADED277/65815cf051c72.jpeg" width="512px"/>
 
 ---
