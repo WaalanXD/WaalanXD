@@ -4,6 +4,9 @@
 
 # 🌻 Sobre mi 🌻
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&width=435&height=50&lines=%E2%9C%A8+Sobre+mi+%E2%9C%A8" alt="Typing SVG" /></a>
+
+
 #### Estudiante de 18 años de Ingenieria de Sitemas e Informatica en la Universidad Nacional de Colombia
 #### Me encanta aprender cosas nuevas y actualmente me encuentro estudiando Python en un semillero
 #### todavia no se nada 🗿
