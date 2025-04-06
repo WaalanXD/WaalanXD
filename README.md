@@ -39,7 +39,7 @@
 #
 
 ### 🏛️ Frase de Socrates 🏛️
-<img width=50% hsrc="https://github.com/user-attachments/assets/e918c67b-1867-4798-b6a7-cbd6ad0a664a"/>
+<img width=50% src="https://github.com/user-attachments/assets/e918c67b-1867-4798-b6a7-cbd6ad0a664a"/>
 
 
 
