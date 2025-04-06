@@ -14,7 +14,7 @@ Actualmente estoy aprendiendo Python aunque todavia no se nada xd
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WaalanXD&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaalanXD&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### Socrates deidad
+### 🏛️ Frase de Socrates 🏛️
 <img src="https://i.ytimg.com/vi/drPf1qV8-GQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDNNjV44rYWGpaWkRz1ZW93B3tl0g"/>
 
 
