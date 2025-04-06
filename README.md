@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=Hola+mundo!+Soy+Kenny+diaz;Bienvenidos+a+mi+GitHub;Gracias+por+la+visita)](https://git.io/typing-svg)
 
 # 🗿 Sobre mi 🗿 :
 #### Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia
