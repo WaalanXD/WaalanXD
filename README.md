@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=C2B014&width=435&lines=¡Hola+mundo!+Soy+Kenny+Diaz+👋;Bienvenidos+a+mi+GitHub+🐈‍⬛;Gracias+por+la+visita+:D+❤️)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=F5F5F5&width=435&height=50&lines=🌻+Sobre+mi+🌻" alt="Typing SVG" /></a>
+#<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=F5F5F5&width=435&height=50&lines=🌻+Sobre+mi+🌻" alt="Typing SVG" /></a>
 
 
 #### Estudiante de 18 años de Ingenieria de Sitemas e Informatica en la Universidad Nacional de Colombia
