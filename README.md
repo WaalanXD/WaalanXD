@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
+
+
 # 🗿 Sobre mi 🗿 :
 #### Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia
 #### Actualmente estoy aprendiendo Python en un semillero
