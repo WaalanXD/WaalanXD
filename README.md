@@ -9,9 +9,9 @@
 <img align=right height="230" width="200" alt="GIF" src="https://github.com/user-attachments/assets/9ce4f05b-c807-420c-877b-87fe48dfa664"/>
 
 
-#### Estudiante de 18 años de Ingenieria de Sitemas e Informatica en la Universidad Nacional de Colombia
-#### Me encanta aprender cosas nuevas y actualmente me encuentro estudiando Python en un semillero
-#### todavia no se nada 🗿 
+##### Estudiante de 18 años de Ingenieria de Sitemas e Informatica en la Universidad Nacional de Colombia
+##### Me encanta aprender cosas nuevas y actualmente me encuentro estudiando Python en un semillero
+##### todavia no se nada 🗿 
 #
 > *`"La verdadera felcidad consiste en hacer el bien" -✨Aristoteles✨`* 
 
