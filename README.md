@@ -23,6 +23,8 @@
 ### 🏛️ Frase de Socrates 🏛️
 <img src="https://i.ytimg.com/vi/drPf1qV8-GQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDNNjV44rYWGpaWkRz1ZW93B3tl0g"/>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C5BA2&height=120&section=footer"/>
+
 
 ### ⍩⃝ gato ⍩⃝ 
 <img src="https://images3.memedroid.com/images/UPLOADED277/65815cf051c72.jpeg" width="512px"/>
