@@ -7,9 +7,9 @@
 
 #### Estudiante de 18 años de Ingenieria de Sitemas e Informatica en la Universidad Nacional de Colombia
 #### Me encanta aprender cosas nuevas y actualmente me encuentro estudiando Python en un semillero
-#### todavia no se nada 🗿 Barriecito
+#### todavia no se nada 🗿
 #
-> `"La verdadera felcidad consiste en hacer el bien" -✨Aristoteles✨`
+> `***"La verdadera felcidad consiste en hacer el bien"*** -✨Aristoteles✨`
 
 
 
