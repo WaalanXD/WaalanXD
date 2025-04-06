@@ -1,5 +1,5 @@
 # 🗿 Sobre mi 🗿 :
-#### Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia.
+#### Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia
 #### Actualmente estoy aprendiendo Python en un semillero
 #### todavia no se nada xd
 
