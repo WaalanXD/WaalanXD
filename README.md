@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C5BA2&height=120&section=header"/>
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=¡Hola+mundo!+Soy+Kenny+Diaz+👋;Bienvenidos+a+mi+GitHub+🐈‍⬛;Gracias+por+la+visita+:D+❤️" alt="¡Hola mundo! Soy Kenny Diaz👋 Bienvenidos a mi GitHub 🐈‍⬛ Gracias por la visita :D ❤️" />
 </p>
 
@@ -38,11 +39,8 @@
 #
 
 ### 🏛️ Frase de Socrates 🏛️
-<img src="https://i.ytimg.com/vi/drPf1qV8-GQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDNNjV44rYWGpaWkRz1ZW93B3tl0g"/>
+<img src="https://github.com/user-attachments/assets/50f79a7f-0657-4f83-8ec0-a4f4a16b2a16"/>
 
-
-### ⍩⃝ gato ⍩⃝ 
-<img src="https://images3.memedroid.com/images/UPLOADED277/65815cf051c72.jpeg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WaalanXD&icon=2&color=8)](https://visitcount.itsvg.in)
