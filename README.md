@@ -1,7 +1,7 @@
 # 🗿 Sobre mi 🗿 :
-Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia
-Estoy aprendiendo Python
-no se nada todavia xd
+Soy estudiante de Ingeniería de Sistemas e Informática
+en la Universidad Nacional de Colombia.
+Actualmente estoy aprendiendo Python auqnue todavia no se nada xd
 
 
 ## 🌐 Redes Sociales
@@ -14,10 +14,10 @@ no se nada todavia xd
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WaalanXD&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaalanXD&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
+### ✍️Frase Random
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
+### ⍩⃝ My honest reaction ⍩⃝ 
 <img src="https://images3.memedroid.com/images/UPLOADED277/65815cf051c72.jpeg" width="512px"/>
 
 ---
