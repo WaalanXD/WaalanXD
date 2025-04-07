@@ -38,7 +38,9 @@
 
 #
 
-### 🏛️ Frase de Socrates 🏛️
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=F5F5F5&width=435&height=50&lines=🏛️+Frase+de+Socrates+🏛️" alt="Typing SVG" /></a>
+
+
 <img width=50% src="https://github.com/user-attachments/assets/e918c67b-1867-4798-b6a7-cbd6ad0a664a"/>
 
 
