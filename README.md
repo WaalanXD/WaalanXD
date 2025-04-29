@@ -22,7 +22,7 @@
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🌐+Redes+Sociales+🌐" alt="Typing SVG" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenny-diaz) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenny-daniel-diaz-diaz) 
 #
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=💻+Skills+💻" alt="Typing SVG" /></a>
