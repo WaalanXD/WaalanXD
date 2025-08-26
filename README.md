@@ -12,7 +12,7 @@
 
 #### Estudiante de Ingenieria de Sistemas e Informatica en la Universidad Nacional de Colombia.
 #### Tengo 18 años y me apasiona el aprendizaje continuo, especialmente en el area de desarrollo de software.
-#### Actualmente formo parte de un semillero de Python donde frotalezco mis habilidades de programación.
+#### Actualmente formo parte de un semillero de Python donde fortalezco mis habilidades de programación.
 #### Todavia no se nada 🗿
 
 #
